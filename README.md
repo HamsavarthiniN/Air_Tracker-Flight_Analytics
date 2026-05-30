@@ -1,4 +1,58 @@
 # Air_Tracker-Flight_Analytics
-Python and sql project
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Libraries](#libraries)
+- [Project Structure](#project-structure)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Dashboard Screenshots](#dashboard-screenshots)
+- [Key Analyses Performed](#key-analyses-performed)
+- [Future Enhancements](#future-enhancements)
+- [Author](#author)
+## Project Overview
 
-    The AeroDataBox Flight Explorer project aims to develop a comprehensive solution for managing, visualizing, and analyzing aviation data extracted from the AeroDataBox API. The application will parse JSON data, store structured information in a relational database, and provide intuitive insights into airports, flight schedules, and operational details. This project is designed to assist aviation enthusiasts, analysts, and organizations in understanding airport networks, flight patterns, and real-time operations while exploring detailed flight information interactively.
+The Air_Tracker-Flight_Analytics is a data analytics application built using Python, MySQL, and Streamlit. It provides insights into airport operations, flight performance, delays, aircraft usage, and route activity through interactive visualizations and SQL-powered analytics.
+
+The dashboard enables users to explore flight data, identify trends, and monitor airline and airport performance.
+
+## Objectives
+The project aims to:
+- Analyze airport and flight operations data.
+- Track departure and arrival delays.
+- Monitor airline performance.
+- Visualize flight statistics using interactive charts.
+- Demonstrate SQL querying, data analysis, and dashboard development skills.
+
+## Libraries
+
+- Python
+- Pandas
+- MySQL
+- Streamlit
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Project Structure
+```text
+Air Tracker-Flight Analytics/
+│
+├─streamlit.py
+├─requirement.txt
+├─database.py
+├─datasources/
+    ├─home.py
+    ├─airport_details.py
+    ├─aircraft_details.py
+    └─analytics.py
+├─sql_queries.py
+└─assest/
+    └─airport_route.png
+```
+## Setup Instructions
+1. **Clone the Repository**
+2. **Create a Virtual Environment**
+   - *Activate-Windows*  
+4. **Install Dependencies**
+5. 
