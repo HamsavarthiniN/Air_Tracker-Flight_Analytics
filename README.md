@@ -17,3 +17,11 @@
 The Air_Tracker-Flight_Analytics is a data analytics application built using Python, MySQL, and Streamlit. It provides insights into airport operations, flight performance, delays, aircraft usage, and route activity through interactive visualizations and SQL-powered analytics.
 
 The dashboard enables users to explore flight data, identify trends, and monitor airline and airport performance.
+
+## Objectives
+The project aims to:
+-Analyze airport and flight operations data.
+-Track departure and arrival delays.
+-Monitor airline performance.
+-Visualize flight statistics using interactive charts.
+-Demonstrate SQL querying, data analysis, and dashboard development skills.
