@@ -1,4 +1,6 @@
 # Air_Tracker-Flight_Analytics
-Python and sql project
+## Project Overview
 
-    The AeroDataBox Flight Explorer project aims to develop a comprehensive solution for managing, visualizing, and analyzing aviation data extracted from the AeroDataBox API. The application will parse JSON data, store structured information in a relational database, and provide intuitive insights into airports, flight schedules, and operational details. This project is designed to assist aviation enthusiasts, analysts, and organizations in understanding airport networks, flight patterns, and real-time operations while exploring detailed flight information interactively.
+The Air_Tracker-Flight_Analytics is a data analytics application built using Python, MySQL, and Streamlit. It provides insights into airport operations, flight performance, delays, aircraft usage, and route activity through interactive visualizations and SQL-powered analytics.
+
+The dashboard enables users to explore flight data, identify trends, and monitor airline and airport performance.
