@@ -40,9 +40,13 @@ The project aims to:
 Air Tracker-Flight Analytics/
 │
 ├─streamlit.py
+├─database.py
 ├─datasources/
     ├─home.py
     ├─airport_details.py
     ├─aircraft_details.py
     └─analytics.py
-    
+├─sql_queries.py
+└─assest/
+    └─airport_route.png
+
