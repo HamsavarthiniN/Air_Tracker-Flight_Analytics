@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
-- [Technology Stack](#technology-stack)
+- [Libraries](#libraries)
 - [Project Structure](#project-structure)
 - [Database Schema](#database-schema)
 - [Setup Instructions](#setup-instructions)
@@ -25,7 +25,7 @@ The project aims to:
 - Visualize flight statistics using interactive charts.
 - Demonstrate SQL querying, data analysis, and dashboard development skills.
 
-## Technology Stack
+## Libraries
 
 - Python
 - Pandas
