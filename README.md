@@ -2,7 +2,6 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
-- [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Project Structure](#project-structure)
 - [Database Schema](#database-schema)
@@ -25,3 +24,13 @@ The project aims to:
 - Monitor airline performance.
 - Visualize flight statistics using interactive charts.
 - Demonstrate SQL querying, data analysis, and dashboard development skills.
+
+## Technology Stack
+
+- Python
+- Pandas
+- MySQL
+- Streamlit
+- NumPy
+- Matplotlib
+- Seaborn
