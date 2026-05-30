@@ -54,5 +54,14 @@ Air Tracker-Flight Analytics/
 1. **Clone the Repository**-git clone https://github.com/HamsavarthiniN/Air_Tracker-Flight_Analytics.git
 2. **Create a Virtual Environment**- python -m venv myenv
    - *Activate-Windows*-copy path of Activate.ps1 and paste in terminal  
-4. **Install Dependencies**
-5. 
+4. **Install Dependencies**- pip install -r requirement.txt
+5. **Configure Database**
+   - Create a MySQL database:
+   - CREATE DATABASE AeroDataBox;
+   - Update database credentials in the project:
+   * host="localhost"
+   * user="root"
+   * password="your_password"
+   * database="AeroDataBox" 
+7. **Running the Application**
+   - streamlit run streamlit.py
