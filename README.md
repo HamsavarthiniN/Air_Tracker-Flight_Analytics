@@ -36,7 +36,7 @@ The project aims to:
 - Seaborn
 
 ## Project Structure
----text
+
 Air Tracker-Flight Analytics/
 │
 ├─streamlit.py
@@ -49,5 +49,5 @@ Air Tracker-Flight Analytics/
 ├─sql_queries.py
 └─assest/
     └─airport_route.png
----    
+
 
