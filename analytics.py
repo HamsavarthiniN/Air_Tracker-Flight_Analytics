@@ -91,10 +91,7 @@ def show_analytics():
         ax.set_title("Airline Delay Analysis")
 
         st.pyplot(fig)
-    elif selected_query == "10. List all city pairs (origin-destination) that have more than 2 different aircraft models operating flights between them":
-        print("wait")
-    elif selected_query == "11. For each destination airport, compute the % of delayed flights (status='Delayed') among all arrivals, sorted by highest percentage":
-        print("wait")
+   
 
     
     
