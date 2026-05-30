@@ -20,8 +20,8 @@ The dashboard enables users to explore flight data, identify trends, and monitor
 
 ## Objectives
 The project aims to:
--Analyze airport and flight operations data.
--Track departure and arrival delays.
--Monitor airline performance.
--Visualize flight statistics using interactive charts.
--Demonstrate SQL querying, data analysis, and dashboard development skills.
+- Analyze airport and flight operations data.
+- Track departure and arrival delays.
+- Monitor airline performance.
+- Visualize flight statistics using interactive charts.
+- Demonstrate SQL querying, data analysis, and dashboard development skills.
