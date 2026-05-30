@@ -34,3 +34,15 @@ The project aims to:
 - NumPy
 - Matplotlib
 - Seaborn
+
+## Project Structure
+---text
+Air Tracker-Flight Analytics/
+│
+├─streamlit.py
+├─datasources/
+    ├─home.py
+    ├─airport_details.py
+    ├─aircraft_details.py
+    └─analytics.py
+    
