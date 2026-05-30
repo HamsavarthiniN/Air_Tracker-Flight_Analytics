@@ -39,6 +39,7 @@ The project aims to:
 Air Tracker-Flight Analytics/
 │
 ├─streamlit.py
+├─requirement.txt
 ├─database.py
 ├─datasources/
     ├─home.py
@@ -50,3 +51,8 @@ Air Tracker-Flight Analytics/
     └─airport_route.png
 ```
 ## Setup Instructions
+1. **Clone the Repository**
+2. **Create a Virtual Environment**
+   - *Activate-Windows*  
+4. **Install Dependencies**
+5. 
