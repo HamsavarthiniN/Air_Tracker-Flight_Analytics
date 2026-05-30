@@ -4,7 +4,6 @@
 - [Objectives](#objectives)
 - [Libraries](#libraries)
 - [Project Structure](#project-structure)
-- [Database Schema](#database-schema)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Dashboard Screenshots](#dashboard-screenshots)
@@ -50,4 +49,4 @@ Air Tracker-Flight Analytics/
 └─assest/
     └─airport_route.png
 ```
-
+## Setup Instructions
