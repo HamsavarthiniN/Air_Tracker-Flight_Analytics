@@ -51,8 +51,8 @@ Air Tracker-Flight Analytics/
     └─airport_route.png
 ```
 ## Setup Instructions
-1. **Clone the Repository**
-2. **Create a Virtual Environment**
-   - *Activate-Windows*  
+1. **Clone the Repository**-git clone https://github.com/HamsavarthiniN/Air_Tracker-Flight_Analytics.git
+2. **Create a Virtual Environment**- python -m venv myenv
+   - *Activate-Windows*-copy path of Activate.ps1 and paste in terminal  
 4. **Install Dependencies**
 5. 
